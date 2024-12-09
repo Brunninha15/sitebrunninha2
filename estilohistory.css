@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url('brunnabad.jpg') no-repeat center center/cover;
+    color: white;
+  }
+  
+  header {
+    background-color: pink;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  .overlay-text {
+    position: absolute;
+    top: 100px;
+    left: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    background: pink;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .video-container {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  section {
+    margin: 20px;
+    padding: 20px;
+    background: rgb(231, 151, 178);
+    border-radius: 10px;
+  }
+  .section2{
+    margin: 20px;
+    padding: 20px;
+    background: rgb(231, 151, 178);
+    border-radius: 10px;
+    max-width: 100%;
+  }
+  
+  ul {
+    margin: 10px 0;
+    padding-left: 20px;
+  }
+  .bg {
+    height: 500px;
+    width: 100%;
+    background-image:("brunnabad.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+p{
+font-size: 15px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+}
+
+.card img svg {
+    width: 300px;
+}
+
+
